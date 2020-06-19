@@ -8,7 +8,7 @@ Shaun is the main character of the movie Shaun of the Dead, where he fights zomb
 Shaun said:
 
 > Let's go to the Winchester
-> There it's safe.
-
+> There it's safe. Very very safe
 
 <img src="https://comicvine1.cbsistatic.com/uploads/square_medium/13/132162/3303652-shaun%2Bof%2Bthe%2Bdead%2B359cinepapier1_shaunofthedead.jpg"/>
+
