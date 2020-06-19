@@ -4,3 +4,8 @@ Shaun is the main character of the movie Shaun of the Dead, where he fights zomb
 * witty
 * foolish
 * beer loving
+
+Shaun said:
+
+> Let's go to the Winchester
+> There it's safe.
